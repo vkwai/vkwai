@@ -1,5 +1,8 @@
-### Hi there 👋
+Hows it going, I enjoy web development!
+---
+### :fire: Daily Stats :
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vkwai&hide_border=true)](https://git.io/streak-stats)
 <!--
 **vkwai/vkwai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
