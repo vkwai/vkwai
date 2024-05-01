@@ -1,5 +1,5 @@
-### :fire: Hows it going!
-I enjoy web development and possibly other things
+### :fire: Hi there!
+I am inspired by quality software and hardware design!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vkwai&layout=compact)](https://github.com/vkwai/github-readme-stats)
 
